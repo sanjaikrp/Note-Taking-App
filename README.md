@@ -11,6 +11,4 @@ Feel free to use it and **bookmark in your browser**, it will help you in instan
 It basically uses the concept of **Local Storage** for storing the data on your browser storage. 
 
 The notes will keeps in a safe place, until you delete it or refresing your whole browser means reinstalling or deleting data or cache.
-
-> **Here is the link to use --> [Note Taking App](https://indrajit030.github.io/Note-Taking-App-Pure-JavaScript/)**
  
